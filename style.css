@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.justify-content-center{
+    margin: 0 auto;
+}
+
+.calcontainer{
+    margin-left: 0;
+    margin-top: 30px;
+}
+
+.form-control{
+    border: 0;
+}
+
+.form-control::placeholder{
+    color: white;
+}
+
+.tbl{
+    background-color: #272727;
+}
+
+#panel{
+    width: 100%;
+    font-size: 4.5vw;
+    background-color: #272727;
+    color: white;
+}
+
+.bttn{
+    width: 80%;
+    height: 100%;
+    font-size: 2vw;
+    margin-left: 11%;
+}
+
+.bttne{
+    width: 80%;
+    font-size: 2vw;
+}
